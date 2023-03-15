@@ -1,8 +1,8 @@
 {
-  "name": "Abanzzilager",
-  "width": 2304,
-  "height": 2304,
-  "grid": 72,
+  "name": "Abanzzilager-STATIC",
+  "width": 3900,
+  "height": 3900,
+  "grid": 150,
   "shiftX": 0,
   "shiftY": 0,
   "gridDistance": 5.0,
@@ -14,56 +14,56 @@
   "darkness": 0.0,
   "lights": [
     {
-      "x": 1298,
-      "y": 1080,
+      "x": 2262,
+      "y": 1797,
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD40",
       "tintAlpha": 0.0
     },
     {
-      "x": 655,
-      "y": 1362,
+      "x": 881,
+      "y": 2402,
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD40",
       "tintAlpha": 0.0
     },
     {
-      "x": 1274,
-      "y": 1702,
+      "x": 2212,
+      "y": 3131,
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD40",
       "tintAlpha": 0.0
     },
     {
-      "x": 1622,
-      "y": 1273,
+      "x": 2957,
+      "y": 2210,
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD40",
       "tintAlpha": 0.0
     },
     {
-      "x": 942,
-      "y": 1079,
+      "x": 1510,
+      "y": 1798,
       "dim": 25.0,
       "bright": 12.5,
       "tintColor": "#FF9A00",
       "tintAlpha": 0.0
     },
     {
-      "x": 1400,
-      "y": 1259,
+      "x": 2467,
+      "y": 2175,
       "dim": 25.0,
       "bright": 12.5,
       "tintColor": "#FF9A00",
       "tintAlpha": 0.0
     },
     {
-      "x": 1038,
-      "y": 1432,
+      "x": 1711,
+      "y": 2536,
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD40",

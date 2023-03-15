@@ -1,3 +1,10 @@
 {
-    "MODULE.hello": "hello"
+    "MIDGARD5-COMBAT-TOOLS.movementInitiative": "Anführen",
+    "MIDGARD5-COMBAT-TOOLS.movementOrder": "Bewegungsrang",
+    "MIDGARD5-COMBAT-TOOLS.combatInitiative": "Handlungsrang",
+    "MIDGARD5-COMBAT-TOOLS.combatRound": "Kampfrunde",
+    "MIDGARD5-COMBAT-TOOLS.movementAction": "Bewegungsphase",
+    "MIDGARD5-COMBAT-TOOLS.concentration": "Konzentration",
+    "MIDGARD5-COMBAT-TOOLS.spellPreparation": "Zaubervorbereitung",
+    "MIDGARD5-COMBAT-TOOLS.rangedAim": "Fernkampfziel anvisieren"
 }

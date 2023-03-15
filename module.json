@@ -18,7 +18,7 @@
     }
   ],
   "relationships": {
-    "systems": [],
+    "systems": ["midgard5"],
     "requires": []
   },
   "esmodules": [
@@ -29,6 +29,57 @@
   ],
   "styles": [
     "styles/midgard5-combat-tools.css"
+  ],
+  "packs": [
+    {
+      "name": "Initiative",
+      "label": "Akteure für Initiative",
+      "system": "midgard5",
+      "path": "./packs/actors/initiative.db",
+      "type": "Actor"
+    },
+    {
+      "name": "Nichtspielerfiguren",
+      "label": "Standardfiguren für Begegnungen",
+      "system": "midgard5",
+      "path": "./packs/actors/nichtspielerfiguren.db",
+      "type": "Actor"
+    },
+    {
+      "name": "Verteidigung",
+      "label": "Gegenstände zur Verteidigung",
+      "system": "midgard5",
+      "path": "./packs/items/verteidigung.db",
+      "type": "Item"
+    },
+    {
+      "name": "Waffen",
+      "label": "Waffen aus Kodex",
+      "system": "midgard5",
+      "path": "./packs/items/waffen.db",
+      "type": "Item"
+    },
+    {
+      "name": "Zauberwirkungen",
+      "label": "Auswirkungen von Zaubern",
+      "system": "midgard5",
+      "path": "./packs/items/zauberwirkungen.db",
+      "type": "Item"
+    },
+    {
+      "name": "Journaleinträge",
+      "label": "Notizbucheinträge",
+      "system": "midgard5",
+      "path": "./packs/journalentry/notizen.db",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "Szenen",
+      "label": "Battlemaps",
+      "system": "midgard5",
+      "path": "./packs/scenes/szenen.db", 
+      "type": "Scene"
+    }  
   ],
   "languages": [
     {
